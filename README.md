@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0031-next-permutation) |
+| [1539-kth-missing-positive-number](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1539-kth-missing-positive-number) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Search
+|  |
+| ------- |
+| [1539-kth-missing-positive-number](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->

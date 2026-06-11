@@ -19,6 +19,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0020-valid-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [1539-kth-missing-positive-number](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1539-kth-missing-positive-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

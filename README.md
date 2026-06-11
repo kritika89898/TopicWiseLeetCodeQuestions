@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [1903-largest-odd-number-in-string](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -32,6 +33,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Tree
 |  |
@@ -49,4 +51,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0020-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

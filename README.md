@@ -10,6 +10,7 @@
 | [1539-kth-missing-positive-number](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1539-kth-missing-positive-number) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2574-left-and-right-sum-differences) |
+| [3838-weighted-word-mapping](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0242-valid-anagram](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1903-largest-odd-number-in-string) |
+| [3838-weighted-word-mapping](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
@@ -68,4 +70,8 @@
 | ------- |
 | [0120-triangle](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0198-house-robber) |
+## Simulation
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->

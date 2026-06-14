@@ -56,10 +56,12 @@
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0144-binary-tree-preorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0144-binary-tree-preorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Search
 |  |
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
 |  |
@@ -99,4 +102,8 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->

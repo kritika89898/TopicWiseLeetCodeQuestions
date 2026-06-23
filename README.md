@@ -70,6 +70,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0543-diameter-of-binary-tree) |
@@ -83,6 +84,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0543-diameter-of-binary-tree) |
@@ -110,6 +112,7 @@
 |  |
 | ------- |
 | [0120-triangle](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0120-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0300-longest-increasing-subsequence) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -138,6 +141,7 @@
 | [0100-same-tree](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0543-diameter-of-binary-tree) |

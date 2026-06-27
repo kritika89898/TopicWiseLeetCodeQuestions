@@ -172,4 +172,8 @@
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0461-hamming-distance](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->

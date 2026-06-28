@@ -11,6 +11,7 @@
 | [1539-kth-missing-positive-number](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2574-left-and-right-sum-differences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
@@ -113,6 +115,7 @@
 | [0242-valid-anagram](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0451-sort-characters-by-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Dynamic Programming
 |  |
 | ------- |

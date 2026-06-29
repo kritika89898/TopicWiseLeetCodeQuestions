@@ -29,6 +29,7 @@
 | ------- |
 | [0015-3sum](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0031-next-permutation) |
+| [0142-linked-list-cycle-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0151-reverse-words-in-a-string) |
 ## Math
 |  |
@@ -80,6 +81,7 @@
 | [0001-two-sum](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0013-roman-to-integer) |
+| [0142-linked-list-cycle-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0264-ugly-number-ii) |
@@ -230,4 +232,8 @@
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0180-consecutive-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->

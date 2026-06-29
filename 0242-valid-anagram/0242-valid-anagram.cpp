@@ -1,15 +1,15 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        unordered_map<char,int> mp1;
-        unordered_map<char,int> mp2;
+        vector<int> v1(26,0);
+        vector<int> v2(26,0);
         for(auto ch:s){
-            mp1[ch]++;
+            v1[ch-'a']++;
         }
         for(auto ch:t){
-            mp2[ch]++;
+            v2[ch-'a']++;
         }
-        return mp1 == mp2;
+        return v1 == v2;
 
     }
 };

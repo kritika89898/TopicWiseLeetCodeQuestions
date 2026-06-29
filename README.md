@@ -226,4 +226,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->

@@ -11,6 +11,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0300-longest-increasing-subsequence) |
+| [1224-maximum-equal-frequency](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1224-maximum-equal-frequency) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1539-kth-missing-positive-number](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1732-find-the-highest-altitude) |
@@ -82,6 +83,7 @@
 | [0264-ugly-number-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1189-maximum-number-of-balloons) |
+| [1224-maximum-equal-frequency](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1224-maximum-equal-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2196-create-binary-tree-from-descriptions) |

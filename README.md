@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0031-next-permutation) |
 | [0120-triangle](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -23,6 +24,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0151-reverse-words-in-a-string) |
 ## Math
@@ -129,6 +131,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0451-sort-characters-by-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |

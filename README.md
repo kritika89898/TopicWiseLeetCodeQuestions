@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0031-next-permutation) |
 | [0120-triangle](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0300-longest-increasing-subsequence) |
 | [1539-kth-missing-positive-number](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1539-kth-missing-positive-number) |
@@ -135,6 +136,7 @@
 |  |
 | ------- |
 | [0120-triangle](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0264-ugly-number-ii) |

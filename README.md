@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0031-next-permutation) |
 | [0120-triangle](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0198-house-robber) |
@@ -66,6 +67,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0242-valid-anagram) |

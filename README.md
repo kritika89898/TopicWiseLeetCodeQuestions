@@ -22,6 +22,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2574-left-and-right-sum-differences](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2574-left-and-right-sum-differences) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3838-weighted-word-mapping) |
@@ -41,6 +42,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1903-largest-odd-number-in-string](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1903-largest-odd-number-in-string) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3012-minimize-length-of-array-using-operations) |
 ## String
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1903-largest-odd-number-in-string) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3012-minimize-length-of-array-using-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -227,6 +230,7 @@
 |  |
 | ------- |
 | [1201-ugly-number-iii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1201-ugly-number-iii) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3012-minimize-length-of-array-using-operations) |
 ## Sliding Window
 |  |
 | ------- |

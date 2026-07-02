@@ -38,6 +38,7 @@
 | [0031-next-permutation](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0031-next-permutation) |
 | [0142-linked-list-cycle-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0151-reverse-words-in-a-string) |
+| [0696-count-binary-substrings](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0696-count-binary-substrings) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0205-isomorphic-strings](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0451-sort-characters-by-frequency) |
+| [0696-count-binary-substrings](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0696-count-binary-substrings) |
 | [1189-maximum-number-of-balloons](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

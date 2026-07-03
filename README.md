@@ -28,6 +28,7 @@
 | [3012-minimize-length-of-array-using-operations](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3469-find-minimum-cost-to-remove-array-elements](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
@@ -175,6 +176,7 @@
 | [0264-ugly-number-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0300-longest-increasing-subsequence) |
 | [0968-binary-tree-cameras](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0968-binary-tree-cameras) |
+| [3469-find-minimum-cost-to-remove-array-elements](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Simulation
 |  |

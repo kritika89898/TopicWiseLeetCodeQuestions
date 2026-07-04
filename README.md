@@ -67,6 +67,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0451-sort-characters-by-frequency) |
 | [0696-count-binary-substrings](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0696-count-binary-substrings) |
 | [1189-maximum-number-of-balloons](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1189-maximum-number-of-balloons) |
+| [1328-break-a-palindrome](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1328-break-a-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1529-minimum-suffix-flips](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1529-minimum-suffix-flips) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0011-container-with-most-water) |
+| [1328-break-a-palindrome](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1328-break-a-palindrome) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1529-minimum-suffix-flips](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1529-minimum-suffix-flips) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |

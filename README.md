@@ -14,6 +14,7 @@
 | [0198-house-robber](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0300-longest-increasing-subsequence) |
 | [1122-relative-sort-array](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1122-relative-sort-array) |
+| [1200-minimum-absolute-difference](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1200-minimum-absolute-difference) |
 | [1224-maximum-equal-frequency](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1224-maximum-equal-frequency) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -175,6 +176,7 @@
 | [0242-valid-anagram](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0451-sort-characters-by-frequency) |
 | [1122-relative-sort-array](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1122-relative-sort-array) |
+| [1200-minimum-absolute-difference](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |

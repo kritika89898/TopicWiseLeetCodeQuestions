@@ -52,6 +52,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1903-largest-odd-number-in-string](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1903-largest-odd-number-in-string) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3012-minimize-length-of-array-using-operations) |
 ## String
 |  |
@@ -73,6 +74,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2278-percentage-of-letter-in-string](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2278-percentage-of-letter-in-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3838-weighted-word-mapping](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3838-weighted-word-mapping) |
@@ -86,6 +88,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1903-largest-odd-number-in-string) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3012-minimize-length-of-array-using-operations) |
 ## Prefix Sum
@@ -297,4 +300,8 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Game Theory
+|  |
+| ------- |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 <!---LeetCode Topics End-->

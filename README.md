@@ -67,6 +67,7 @@
 | [0696-count-binary-substrings](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0696-count-binary-substrings) |
 | [1189-maximum-number-of-balloons](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1529-minimum-suffix-flips](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1529-minimum-suffix-flips) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -80,6 +81,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0011-container-with-most-water) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1529-minimum-suffix-flips](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1529-minimum-suffix-flips) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |

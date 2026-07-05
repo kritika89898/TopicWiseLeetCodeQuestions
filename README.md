@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0056-merge-intervals) |
 | [0120-triangle](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0128-longest-consecutive-sequence) |
@@ -183,6 +184,7 @@
 | ------- |
 | [0015-3sum](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0451-sort-characters-by-frequency) |
 | [1122-relative-sort-array](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1122-relative-sort-array) |

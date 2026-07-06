@@ -89,6 +89,7 @@
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2278-percentage-of-letter-in-string](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2278-percentage-of-letter-in-string) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3838-weighted-word-mapping](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3838-weighted-word-mapping) |
 ## Greedy
@@ -135,6 +136,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
@@ -237,6 +239,7 @@
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Depth-First Search
 |  |

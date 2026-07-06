@@ -21,6 +21,7 @@
 | [1122-relative-sort-array](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1200-minimum-absolute-difference) |
 | [1224-maximum-equal-frequency](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1224-maximum-equal-frequency) |
+| [1288-remove-covered-intervals](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1288-remove-covered-intervals) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
@@ -199,6 +200,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0451-sort-characters-by-frequency) |
 | [1122-relative-sort-array](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |

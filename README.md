@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0056-merge-intervals) |
 | [0120-triangle](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -216,6 +217,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0054-spiral-matrix) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3838-weighted-word-mapping](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3838-weighted-word-mapping) |
 ## Heap (Priority Queue)
@@ -323,6 +325,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0054-spiral-matrix) |
 | [0733-flood-fill](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2812-find-the-safest-path-in-a-grid) |

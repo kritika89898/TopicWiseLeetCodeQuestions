@@ -16,6 +16,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0300-longest-increasing-subsequence) |
+| [0542-01-matrix](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0994-rotting-oranges) |
 | [1122-relative-sort-array](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1122-relative-sort-array) |
@@ -216,6 +217,7 @@
 | [0198-house-robber](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0300-longest-increasing-subsequence) |
+| [0542-01-matrix](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0542-01-matrix) |
 | [0968-binary-tree-cameras](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0968-binary-tree-cameras) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -271,6 +273,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0994-rotting-oranges) |
@@ -331,6 +334,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0054-spiral-matrix) |
+| [0542-01-matrix](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2812-find-the-safest-path-in-a-grid) |

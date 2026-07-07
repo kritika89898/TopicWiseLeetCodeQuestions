@@ -78,6 +78,7 @@
 | [0013-roman-to-integer](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0049-group-anagrams) |
+| [0126-word-ladder-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0205-isomorphic-strings) |
@@ -130,6 +131,7 @@
 | [0012-integer-to-roman](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0049-group-anagrams) |
+| [0126-word-ladder-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0142-linked-list-cycle-ii) |
@@ -279,6 +281,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0126-word-ladder-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0207-course-schedule) |
@@ -375,4 +378,8 @@
 |  |
 | ------- |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
+## Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->

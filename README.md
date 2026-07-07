@@ -20,6 +20,7 @@
 | [0542-01-matrix](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1020-number-of-enclaves) |
 | [1122-relative-sort-array](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1200-minimum-absolute-difference) |
 | [1224-maximum-equal-frequency](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1224-maximum-equal-frequency) |
@@ -267,6 +268,7 @@
 | [0547-number-of-provinces](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0733-flood-fill) |
 | [0968-binary-tree-cameras](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0968-binary-tree-cameras) |
+| [1020-number-of-enclaves](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -280,6 +282,7 @@
 | [0547-number-of-provinces](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1020-number-of-enclaves) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Counting Sort
@@ -333,6 +336,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1020-number-of-enclaves) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
@@ -342,6 +346,7 @@
 | [0542-01-matrix](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1020-number-of-enclaves) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory

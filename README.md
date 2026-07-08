@@ -63,6 +63,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0013-roman-to-integer) |
+| [0263-ugly-number](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0264-ugly-number-ii) |
 | [0780-reaching-points](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0780-reaching-points) |
 | [1201-ugly-number-iii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1201-ugly-number-iii) |

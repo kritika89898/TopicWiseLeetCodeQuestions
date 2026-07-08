@@ -96,6 +96,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1529-minimum-suffix-flips](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1529-minimum-suffix-flips) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -116,6 +117,7 @@
 | [1328-break-a-palindrome](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1328-break-a-palindrome) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1529-minimum-suffix-flips](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1529-minimum-suffix-flips) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -205,6 +207,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2104-sum-of-subarray-ranges) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2696-minimum-string-length-after-removing-substrings) |

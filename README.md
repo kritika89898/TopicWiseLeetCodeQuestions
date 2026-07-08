@@ -18,6 +18,7 @@
 | [0130-surrounded-regions](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0300-longest-increasing-subsequence) |
 | [0542-01-matrix](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0733-flood-fill) |
@@ -142,6 +143,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0451-sort-characters-by-frequency) |
@@ -211,6 +213,7 @@
 | [0015-3sum](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0451-sort-characters-by-frequency) |
 | [1122-relative-sort-array](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1122-relative-sort-array) |

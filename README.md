@@ -69,6 +69,7 @@
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [2278-percentage-of-letter-in-string](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
@@ -123,6 +125,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2574-left-and-right-sum-differences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
 | ------- |

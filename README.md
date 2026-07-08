@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0056-merge-intervals) |
@@ -389,5 +390,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0039-combination-sum) |
 | [0126-word-ladder-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->

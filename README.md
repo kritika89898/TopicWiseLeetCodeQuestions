@@ -36,6 +36,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2104-sum-of-subarray-ranges](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2104-sum-of-subarray-ranges) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2574-left-and-right-sum-differences](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2574-left-and-right-sum-differences) |
@@ -202,6 +203,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2104-sum-of-subarray-ranges) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Sorting
 |  |
@@ -396,4 +398,8 @@
 | ------- |
 | [0039-combination-sum](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0039-combination-sum) |
 | [0126-word-ladder-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0126-word-ladder-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2104-sum-of-subarray-ranges](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->

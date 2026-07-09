@@ -24,6 +24,7 @@
 | [0697-degree-of-an-array](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0697-degree-of-an-array) |
 | [0733-flood-fill](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1020-number-of-enclaves) |
 | [1122-relative-sort-array](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1200-minimum-absolute-difference) |
@@ -130,6 +131,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2574-left-and-right-sum-differences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -201,6 +203,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0300-longest-increasing-subsequence) |
+| [1004-max-consecutive-ones-iii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1004-max-consecutive-ones-iii) |
 | [1201-ugly-number-iii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1201-ugly-number-iii) |
 | [1539-kth-missing-positive-number](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1539-kth-missing-positive-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -350,6 +353,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Database

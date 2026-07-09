@@ -47,6 +47,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3386-button-with-longest-push-time](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3386-button-with-longest-push-time) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
@@ -162,6 +163,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
 |  |
@@ -200,6 +202,7 @@
 | [1201-ugly-number-iii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1201-ugly-number-iii) |
 | [1539-kth-missing-positive-number](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1539-kth-missing-positive-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Stack
 |  |
 | ------- |
@@ -365,6 +368,7 @@
 | [0785-is-graph-bipartite](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1020-number-of-enclaves) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
@@ -384,6 +388,7 @@
 | [0547-number-of-provinces](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0785-is-graph-bipartite) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Shortest Path
 |  |
 | ------- |

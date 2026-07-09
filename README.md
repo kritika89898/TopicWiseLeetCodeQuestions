@@ -38,6 +38,7 @@
 | [1732-find-the-highest-altitude](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2104-sum-of-subarray-ranges) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -126,6 +127,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1903-largest-odd-number-in-string) |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3012-minimize-length-of-array-using-operations) |

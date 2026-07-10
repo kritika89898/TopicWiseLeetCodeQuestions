@@ -1,32 +1,36 @@
 class Solution {
 public:
-    bool dfs(vector<vector<int>> adj,int i ,vector<bool> parent,vector<bool> visited){
-        visited[i] = true;
-        parent[i] = true;
-        for(auto vec:adj[i]){
-            if(!visited[vec] && dfs(adj,vec,parent,visited)){
-                return true;
-            }else if(parent[vec]){
-                return true;
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        int cnt = 0;
+        vector<vector<int>> adj(numCourses);
+        queue<int> q;
+        vector<int> indegree(numCourses,0);
+        
+        for(auto& p:prerequisites){
+            int u = p[0];
+            int v = p[1];
+            adj[u].push_back(v);
+            indegree[v]++;
+        }
+
+        for(int i = 0 ; i < numCourses ; i++){
+            if(indegree[i] == 0){
+                q.push(i);
             }
         }
-        parent[i] = false;
-        return false;
-    }
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> adj(numCourses);
-        vector<bool> visited(numCourses,false);
-        vector<bool> parent(numCourses,false);
-        for(auto p:prerequisites){
-            int u = p[0];
-            int v= p[1];
-            adj[v].push_back(u);
+
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();
+            cnt++;
+            for(auto nei:adj[node]){
+                indegree[nei]--;
+                if(indegree[nei] == 0){
+                    q.push(nei);
+                }
+            }
         }
-        for(int i = 0 ; i < numCourses ;i++){
-          if(!visited[i] && dfs(adj,i,parent,visited)){
-            return false;
-          }
-        }
-        return true;
+        return cnt == numCourses;
+        
     }
 };

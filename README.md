@@ -51,6 +51,7 @@
 | [3386-button-with-longest-push-time](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3386-button-with-longest-push-time) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
@@ -62,6 +63,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0151-reverse-words-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0696-count-binary-substrings) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3012-minimize-length-of-array-using-operations) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -211,6 +214,7 @@
 | [1539-kth-missing-positive-number](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1539-kth-missing-positive-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
 | ------- |
@@ -240,6 +244,7 @@
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -252,6 +257,7 @@
 | [0542-01-matrix](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0542-01-matrix) |
 | [0968-binary-tree-cameras](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0968-binary-tree-cameras) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Simulation
 |  |
@@ -345,6 +351,7 @@
 | ------- |
 | [0461-hamming-distance](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0461-hamming-distance) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -407,6 +414,7 @@
 | [0785-is-graph-bipartite](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0785-is-graph-bipartite) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Shortest Path
 |  |
 | ------- |

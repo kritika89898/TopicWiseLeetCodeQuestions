@@ -365,6 +365,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0175-combine-two-tables) |
 | [0180-consecutive-numbers](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0180-consecutive-numbers) |
 | [1068-product-sales-analysis-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |

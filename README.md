@@ -112,6 +112,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2278-percentage-of-letter-in-string](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -173,6 +174,7 @@
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |

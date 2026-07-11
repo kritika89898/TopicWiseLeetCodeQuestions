@@ -312,6 +312,7 @@
 | [0785-is-graph-bipartite](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0785-is-graph-bipartite) |
 | [0968-binary-tree-cameras](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0968-binary-tree-cameras) |
 | [1020-number-of-enclaves](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1020-number-of-enclaves) |
+| [2685-count-the-number-of-complete-components](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -331,6 +332,7 @@
 | [0785-is-graph-bipartite](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1020-number-of-enclaves) |
+| [2685-count-the-number-of-complete-components](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Counting Sort
@@ -397,6 +399,7 @@
 | [0547-number-of-provinces](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1020-number-of-enclaves) |
+| [2685-count-the-number-of-complete-components](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
@@ -418,6 +421,7 @@
 | [0210-course-schedule-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0785-is-graph-bipartite) |
+| [2685-count-the-number-of-complete-components](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3534-path-existence-queries-in-a-graph-ii) |

@@ -29,6 +29,7 @@
 | [1122-relative-sort-array](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1200-minimum-absolute-difference) |
 | [1224-maximum-equal-frequency](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1224-maximum-equal-frequency) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1288-remove-covered-intervals) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -73,6 +74,7 @@
 | [0264-ugly-number-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0264-ugly-number-ii) |
 | [0780-reaching-points](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0780-reaching-points) |
 | [1201-ugly-number-iii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1201-ugly-number-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -138,6 +140,7 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2574-left-and-right-sum-differences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -164,6 +167,7 @@
 | [1122-relative-sort-array](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1189-maximum-number-of-balloons) |
 | [1224-maximum-equal-frequency](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1224-maximum-equal-frequency) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -366,6 +370,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |

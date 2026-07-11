@@ -64,6 +64,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0151-reverse-words-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0696-count-binary-substrings) |
+| [0844-backspace-string-compare](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0844-backspace-string-compare) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
@@ -99,6 +100,7 @@
 | [0242-valid-anagram](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0451-sort-characters-by-frequency) |
 | [0696-count-binary-substrings](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0696-count-binary-substrings) |
+| [0844-backspace-string-compare](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1189-maximum-number-of-balloons) |
 | [1328-break-a-palindrome](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1328-break-a-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -228,6 +230,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0844-backspace-string-compare](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0844-backspace-string-compare) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2104-sum-of-subarray-ranges) |
@@ -269,6 +272,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0844-backspace-string-compare) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3838-weighted-word-mapping](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3838-weighted-word-mapping) |
 ## Heap (Priority Queue)

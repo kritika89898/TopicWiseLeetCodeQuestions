@@ -41,6 +41,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2008-maximum-earnings-from-taxi](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2104-sum-of-subarray-ranges](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2104-sum-of-subarray-ranges) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
@@ -176,6 +177,7 @@
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2008-maximum-earnings-from-taxi](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -220,6 +222,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1004-max-consecutive-ones-iii) |
 | [1201-ugly-number-iii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1201-ugly-number-iii) |
 | [1539-kth-missing-positive-number](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1539-kth-missing-positive-number) |
+| [2008-maximum-earnings-from-taxi](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -253,6 +256,7 @@
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2008-maximum-earnings-from-taxi](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2008-maximum-earnings-from-taxi) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
@@ -265,6 +269,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0300-longest-increasing-subsequence) |
 | [0542-01-matrix](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0542-01-matrix) |
 | [0968-binary-tree-cameras](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0968-binary-tree-cameras) |
+| [2008-maximum-earnings-from-taxi](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/2008-maximum-earnings-from-taxi) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/3699-number-of-zigzag-arrays-i) |

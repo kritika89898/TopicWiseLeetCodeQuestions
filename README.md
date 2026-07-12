@@ -32,6 +32,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1288-remove-covered-intervals) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1331-rank-transform-of-an-array](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -172,6 +173,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1189-maximum-number-of-balloons) |
 | [1224-maximum-equal-frequency](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1224-maximum-equal-frequency) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -250,6 +252,7 @@
 | [1122-relative-sort-array](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |

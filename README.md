@@ -12,6 +12,7 @@
 | [0049-group-anagrams](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0057-insert-interval) |
 | [0120-triangle](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kritika89898/TopicWiseLeetCodeQuestions/tree/master/0128-longest-consecutive-sequence) |
